@@ -1,0 +1,11 @@
+{
+  "name": "ResolveablePromise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jauco/ResolveablePromise.git",
+  "author": "Jauco Noordzij <code@jauco.nl>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
